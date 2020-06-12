@@ -2,16 +2,16 @@
 # Common readme file for Nimbus credentials
 
 # Git repo links:
-http://nimbusserver.aos.com:8091/git/UFT_Tests.git
-http://nimbusserver.aos.com:8091/git/aos-android.git
-http://nimbusserver.aos.com:8091/git/aos-regression-test-web.git
-http://nimbusserver.aos.com:8091/git/aos-source.git
-http://nimbusserver.aos.com:8091/git/octane-gherkin.git
-http://nimbusserver.aos.com:8091/git/oscillating.git
-http://nimbusserver.aos.com:8091/git/uft-gui-create-aos-account.git
-http://nimbusserver.aos.com:8091/git/uftdev-aos-web-gherkin.git
-http://nimbusserver.aos.com:8091/git/uftdev-aos-web-selenium.git
-http://nimbusserver.aos.com:8091/git/uft-one-aos-web-regression.git
+- http://nimbusserver.aos.com:8091/git/UFT_Tests.git
+- http://nimbusserver.aos.com:8091/git/aos-android.git
+- http://nimbusserver.aos.com:8091/git/aos-regression-test-web.git
+- http://nimbusserver.aos.com:8091/git/aos-source.git
+- http://nimbusserver.aos.com:8091/git/octane-gherkin.git
+- http://nimbusserver.aos.com:8091/git/oscillating.git
+- http://nimbusserver.aos.com:8091/git/uft-gui-create-aos-account.git
+- http://nimbusserver.aos.com:8091/git/uftdev-aos-web-gherkin.git
+- http://nimbusserver.aos.com:8091/git/uftdev-aos-web-selenium.git
+- http://nimbusserver.aos.com:8091/git/uft-one-aos-web-regression.git
 
 # Login Credentials (always check docker hub for the latest passwords):
 - If not specified below:		      demo, Password1
