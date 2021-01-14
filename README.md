@@ -1,5 +1,5 @@
 # desktop-readme
-# Common readme file for Nimbus credentials
+## Common readme file for Nimbus credentials
 
 # Git repo links:
 - http://nimbusserver.aos.com:8091/git/UFT_Tests.git
